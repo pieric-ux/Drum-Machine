@@ -1,0 +1,105 @@
+{
+  "commonAudioPath": "https://s3.amazonaws.com/freecodecamp/drums/",
+  "banks": {
+    "bank1": {
+      "name": "Heater Kit",
+      "sounds": [
+        {
+          "name": "Heater 1",
+          "file": "Heater-1.mp3",
+          "letter": "Q"
+        },
+        {
+          "name": "Heater 2",
+          "file": "Heater-2.mp3",
+          "letter": "W"
+        },
+        {
+          "name": "Heater 3",
+          "file": "Heater-3.mp3",
+          "letter": "E"
+        },
+        {
+          "name": "Heater 4",
+          "file": "Heater-4_1.mp3",
+          "letter": "A"
+        },
+        {
+          "name": "Clap",
+          "file": "Heater-6.mp3",
+          "letter": "S"
+        },
+        {
+          "name": "Open HH",
+          "file": "Dsc_Oh.mp3",
+          "letter": "D"
+        },
+        {
+          "name": "Kick n' Hat",
+          "file": "Kick_n_Hat.mp3",
+          "letter": "Z"
+        },
+        {
+          "name": "Kick",
+          "file": "RP4_KICK_1.mp3",
+          "letter": "X"
+        },
+        {
+          "name": "Closed HH",
+          "file": "Cev_H2.mp3",
+          "letter": "C"
+        }
+      ]
+    },
+    "bank2": {
+      "name": "Smooth Piano Kit",
+      "sounds": [
+        {
+          "name": "Chord 1",
+          "file": "Chord_1.mp3",
+          "letter": "Q"
+        },
+        {
+          "name": "Chord 2",
+          "file": "Chord_2.mp3",
+          "letter": "W"
+        },
+        {
+          "name": "Chord 3",
+          "file": "Chord_3.mp3",
+          "letter": "E"
+        },
+        {
+          "name": "Shaker",
+          "file": "Give_us_a_light.mp3",
+          "letter": "A"
+        },
+        {
+          "name": "Open HH",
+          "file": "Dry_Ohh.mp3",
+          "letter": "S"
+        },
+        {
+          "name": "Closed HH",
+          "file": "Bld_H1.mp3",
+          "letter": "D"
+        },
+        {
+          "name": "Punchy Kick",
+          "file": "punchy_kick_1.mp3",
+          "letter": "Z"
+        },
+        {
+          "name": "Side Stick",
+          "file": "side_stick_1.mp3",
+          "letter": "X"
+        },
+        {
+          "name": "Snare",
+          "file": "Brk_Snr.mp3",
+          "letter": "C"
+        }
+      ]
+    }
+  }
+}
